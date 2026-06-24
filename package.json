@@ -6,6 +6,9 @@
   "homepage": "https://github.com/Chacka-Lab/vite-plugin-only",
   "bugs": "https://github.com/Chacka-Lab/vite-plugin-only/issues",
   "license": "MIT",
+  "keywords": [
+    "vite"
+  ],
   "scripts": {
     "build": "tsdown"
   },
